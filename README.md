@@ -39,14 +39,14 @@ The project uses:
 | Module | Responsible Member |
 |---|---|
 | Task Management | Omar Al-Tasha |
-| Student Profile | Ali Al-Ar |
-| Study Session | Ali Al-Ar |
-| Time Prediction Model | Mulham Saadia |
-| Delay Prediction Model | Mulham Saadia |
+| Student Profile | Ali Al-Or |
+| Study Session | Ali Al-Or |
+| Time Prediction Model | Mulham Sadeh |
+| Delay Prediction Model | Mulham Sadeh |
 | Scheduling Engine | Mohammad Ramez Hamdo |
 | Recovery Engine | Mohammad Ramez Hamdo |
 | Report Generation | Omar Al-Tasha |
-| Final Integration | Mulham Saadia |
+| Final Integration | Mulham Sadeh |
 
 ## Team Members
 
