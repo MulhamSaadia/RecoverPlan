@@ -1,6 +1,7 @@
-#include <iostream>
+#include<iostream>
 
-int main() {
-    std::cout << "RecoverPlan Project Started\n";
-    return 0;
+using namespace std ;
+int main ()
+{
+    return 0 ;
 }
